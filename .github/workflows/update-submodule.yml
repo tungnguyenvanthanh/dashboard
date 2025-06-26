@@ -38,7 +38,7 @@ jobs:
 
       - name: Add CNAME
         run: |
-          echo "admin.ttvl.io.vn" > docs/CNAME
+          echo "dashboard.ttvl.io.vn" > docs/CNAME
 
       - name: Commit and push
         run: |
