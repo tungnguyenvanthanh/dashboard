@@ -24,5 +24,28 @@ jobs:
           git checkout origin/main
           cd ..
           git add admin-shared
-          git commit -m "Auto-update from admin-shared" || echo "No changes"
+          git commit -m "Update submodule" || echo "No submodule changes"
+
+      - name: Copy admin-shared to docs/
+        run: |
+          rm -rf docs
+          mkdir docs
+          cp -r admin-shared/* docs/
+
+      - name: Add .nojekyll
+        run: |
+          touch docs/.nojekyll
+
+      - name: Add CNAME
+        run: |
+          echo "admin.ttvl.io.vn" > docs/CNAME
+
+      - name: Commit and push
+        run: |
+          git add docs
+          git commit -m "Update docs from admin-shared" || echo "No docs changes"
           git push
+
+      - name: Check files in docs
+        run: |
+          find docs/ -type f
