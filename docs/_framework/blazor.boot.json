@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "AppAdmin",
   "resources": {
-    "hash": "sha256-vQsB6QO48kTDRFv4GzAXbsKY1z/q5zU5LIlD231mnlM=",
+    "hash": "sha256-+oFfILXs51+ddHDv8WNMSTP5KZbMpnjhSIX4BbfDIak=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-YyxJV6dv935qHoQAmjB+2qRjHeGpm4SyWxE0T/KvsIE="
     },
@@ -99,14 +99,14 @@
       "System.Web.HttpUtility.wasm": "sha256-4yEIve5NJHIceQ7hzDDIhevg6b3OF7P0aP7yh3TjWoA=",
       "System.wasm": "sha256-ovI9fLxLRfh4RwNCi87t4luRVFfNap5GiBEwY0eh3bc=",
       "System.Private.CoreLib.wasm": "sha256-mA1zAJH2QPUia4UmP9IkBRRmmBkBPI0scx/94flH8xc=",
-      "AppShare.wasm": "sha256-qSzzhz4tUU/tPw5E47tkyJms36hlAMpW7h03uubW/pE=",
-      "TTVLDashboard.BlogLibrary.wasm": "sha256-AqO1NkEV2iT9C7WAOzv0NCRRWRH7pGdBYozB4Z8bf7g=",
-      "TTVLDashboard.TenantLibrary.wasm": "sha256-pCP3FwScyvnYundh33fL8afTSM4y5dtTHbMa7w9jFQs=",
-      "TTVLDashboard.UserLibrary.wasm": "sha256-7ZDDx4LcX4mfCJllgs7r+s1yvsDJdMs+CevpoULKfXY=",
-      "TTVLDashboard.WebsiteLibrary.wasm": "sha256-MJ2S59MMOLd9w+FsUL2jzBNKSeuHoKil+OPQuHlEnFM=",
-      "TTVLMudThemeLibrary.wasm": "sha256-yBsybL+T3Lq6VLdEJWlyuNWu/iq5Vu+0E79wL72DQ+8=",
-      "TTVLShareLibrary.wasm": "sha256-FvQJXPZp6U68KQ3wc/Vxn3izmz8C7ogEKFbbh2/3MO0=",
-      "AppAdmin.wasm": "sha256-gMvAwxNOg3SFhq8+YYdokO4QzeQF1DIwlqrZtFle1vw="
+      "AppShare.wasm": "sha256-DeFtTlKa4qnRJpnPeLNcMTS7yejytGTsiYc2FWH6QlQ=",
+      "TTVLDashboard.BlogLibrary.wasm": "sha256-yCgq+ElATHVLGQVoAMwbdxjU6msARydVKkQXC0SIZVI=",
+      "TTVLDashboard.TenantLibrary.wasm": "sha256-JEecABPF7AyEiko+xpk8HVfGoIaY6diy2FvS5lhO1OU=",
+      "TTVLDashboard.UserLibrary.wasm": "sha256-47SJZnFJWvT6iFnltJ3A9LYC9CTByEKyBFnFnmTomvg=",
+      "TTVLDashboard.WebsiteLibrary.wasm": "sha256-ejP07bx0NqXzBJN9RJw+QT16/OKHmLeophhVyE1Lroc=",
+      "TTVLMudThemeLibrary.wasm": "sha256-yO57bELB63vxRp+BU5YhPkXHIv6xALCOOj5wNUpq4ds=",
+      "TTVLShareLibrary.wasm": "sha256-Yq5CoTQZLfn2gvR1t4cmC+s5DvunALHkZaSY7sJO49M=",
+      "AppAdmin.wasm": "sha256-drxFSA7cBoWUppq9mk4fq/smRcsxpEk6ndLnuDQGue8="
     },
     "libraryInitializers": {
       "_content/TinyMCE.Blazor/TinyMce.Blazor.lib.module.js": "sha256-YWo2eyD7vRsEwgJEvrAuzw9OkKV7xlijfLrNVtX4iWg="
