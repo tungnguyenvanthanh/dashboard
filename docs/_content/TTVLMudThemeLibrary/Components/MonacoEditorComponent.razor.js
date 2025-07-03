@@ -9,13 +9,13 @@ export async function initializeMonaco(divId, value, language, theme, dotNetHelp
     // 👉 Cấu hình require để load từ CDN
     require.config({
         paths: {
-            vs: 'https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.34.1/min/vs'
+            vs: 'https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.52.2/min/vs'
         }
     });
 
     // 👉 Không cần tự cấu hình getWorkerUrl nữa, Monaco từ CDN sẽ tự resolve đúng
     self.MonacoEnvironment = {
-        baseUrl: 'https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.34.1/min/'
+        baseUrl: 'https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.52.2/min/'
     };
 
     require(['vs/editor/editor.main'], function () {
