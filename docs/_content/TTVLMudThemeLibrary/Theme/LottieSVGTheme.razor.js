@@ -5,9 +5,11 @@
         if (window.__LottieSVG_loaderPromise) return window.__LottieSVG_loaderPromise;
 
         // Tạo Promise duy nhất để mọi component đều chờ vào đây
-        window.__LottieSVG_loaderPromise = (async () => {
-            await loadAsset({ type: "js", url: "_content/TTVLMudThemeLibrary/plugins/lottie/lottie.min.js", location: "body" });
-        })();
+        //window.__LottieSVG_loaderPromise = (async () => {
+        //    await loadAsset({ type: "js", url: "_content/TTVLMudThemeLibrary/plugins/lottie/lottie.min.js", location: "body" });
+        //})();
+
+        window.__LottieSVG_loaderPromise = true;
 
         return window.__LottieSVG_loaderPromise;
     };

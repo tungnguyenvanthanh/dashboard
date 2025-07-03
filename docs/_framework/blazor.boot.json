@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "AppAdmin",
   "resources": {
-    "hash": "sha256-cWNdpa84VPD7OGLbj5HAALRr4A+iX1oicJFll8WiNo0=",
+    "hash": "sha256-8P+3CqYuQmqgaifMz2Vo+6rhtCpG76RtK/vElkvfyCE=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-YyxJV6dv935qHoQAmjB+2qRjHeGpm4SyWxE0T/KvsIE="
     },
@@ -100,15 +100,15 @@
       "System.wasm": "sha256-ovI9fLxLRfh4RwNCi87t4luRVFfNap5GiBEwY0eh3bc=",
       "System.Private.CoreLib.wasm": "sha256-y+wTGrQ6tL7K79ZIjUi7u6Vj/jE/abJ+0/c7D+IFmU0=",
       "AppShare.wasm": "sha256-DeFtTlKa4qnRJpnPeLNcMTS7yejytGTsiYc2FWH6QlQ=",
-      "TTVLDashboard.BlogLibrary.wasm": "sha256-1Z2v0LTBOfVXFolvxw/PsOraaduSD/zEGjd18O6Ppws=",
-      "TTVLDashboard.HelpCenterLibrary.wasm": "sha256-YEU2Fa64cI1gKpxBANhdzvvxv7PE7X2TmDZ4Nvutowg=",
-      "TTVLDashboard.SiteSettingLibrary.wasm": "sha256-T1bW/6vSpYXhBYn5/XY9V8KtVsp/PnxaCav7UpI3lYQ=",
-      "TTVLDashboard.TenantLibrary.wasm": "sha256-i+ImH7b381OTFP2wFeL3BGl2WLx0n/VrnEnVVyrBrCs=",
-      "TTVLDashboard.UserLibrary.wasm": "sha256-oTz+9vC+BfEpP6M4zg/BaL7KJpzwUu6sPKT+Ty3e9j0=",
-      "TTVLDashboard.WebsiteLibrary.wasm": "sha256-X/L4KfD9q3gLnWj7Uh8Yk1UGueODmqScYLe7M3FkmZ0=",
-      "TTVLMudThemeLibrary.wasm": "sha256-WuOSr5ttfJCj80u/tOz6tHqqNrAu2UmnFwcFfh8vGes=",
+      "TTVLDashboard.BlogLibrary.wasm": "sha256-Joj8v4pthyXPylq3YCzDVyVT1MyD8ZXCUgvbQsEuIDM=",
+      "TTVLDashboard.HelpCenterLibrary.wasm": "sha256-kmXKyKgTzwbkWWxWMzpjPbNBfVLj//4eGq5T/Jl/w98=",
+      "TTVLDashboard.SiteSettingLibrary.wasm": "sha256-qpPfuCo+kpzw9JYMVV9IWthhXPo+83SsDt1aaxd5rlY=",
+      "TTVLDashboard.TenantLibrary.wasm": "sha256-EYiGIsxY4gTlqVWrQqkxAE/zKb1SEEkATTMX7iraJkA=",
+      "TTVLDashboard.UserLibrary.wasm": "sha256-LBZ/Y0RM/sXhofXFL8cypsUc1tsiL3C7NaZkHK2D4kI=",
+      "TTVLDashboard.WebsiteLibrary.wasm": "sha256-tfjky96uEYU4Pnn1FqvhKaAfo908qSCeno4bpZCILE4=",
+      "TTVLMudThemeLibrary.wasm": "sha256-DE+ePgAgfbyyfls61Mxxky+0cBLEEZM1tokjnjivMd0=",
       "TTVLShareLibrary.wasm": "sha256-OXkkfa4X6ONY1yoPshsRNVGHxhsaAYI0XuMedvGYTYM=",
-      "AppAdmin.wasm": "sha256-KEHeH5rB5atiVfT+4CbHgeiq5U+5cYtZpyMwAVC4wBs="
+      "AppAdmin.wasm": "sha256-C7ISG9Vp8ibQBmYHGhhN7HOhx1KiCq767oeNydBt6iQ="
     },
     "libraryInitializers": {
       "_content/TinyMCE.Blazor/TinyMce.Blazor.lib.module.js": "sha256-YWo2eyD7vRsEwgJEvrAuzw9OkKV7xlijfLrNVtX4iWg="
