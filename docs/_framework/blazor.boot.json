@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "AppAdmin",
   "resources": {
-    "hash": "sha256-ovdyScTWzXz42YjfH9NtE2LwAzyndCyebJ8lFbX22Ak=",
+    "hash": "sha256-iVIpiLJDqJ1YA11O382MkVz8euLgfJTZTgqt8qeUqPo=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-O/NCYcAN9uPocD7ns7AzF/cqx7f5vL1PTJCQs0vEXyk="
     },
@@ -103,7 +103,7 @@
       "TTVLDashboard.BlogLibrary.wasm": "sha256-b+ntNOgvKbY+XluTF0AHm1ibtrmbei4AIJLwSHAu/SM=",
       "TTVLDashboard.GameLibrary.wasm": "sha256-tOSpPVXYLppLu2yl7fDO8kwwWynDXAAWpfrSDMFGFlk=",
       "TTVLDashboard.HelpCenterLibrary.wasm": "sha256-vG5cix+gyuzRMup8JrSku8vj8aLnRZvK7B+l4DdVPyA=",
-      "TTVLDashboard.SiteSettingLibrary.wasm": "sha256-252RadPKQYmT3zYoFSvem2gaGQge6CuMMB+/R3bQJ1M=",
+      "TTVLDashboard.SiteSettingLibrary.wasm": "sha256-dE9/DGstZPUmbmVEcB+P68PR8oixWikoKbqi7UYCOuc=",
       "TTVLDashboard.TenantLibrary.wasm": "sha256-+kqWA39jX2jAhGyYSI1cydAZkO07QaJodioD5TENDZQ=",
       "TTVLDashboard.UserLibrary.wasm": "sha256-1Ec4JCdVtfmzOM1L1FyvhyZTCcBupZkm9OfHezshbw0=",
       "TTVLDashboard.WebsiteLibrary.wasm": "sha256-dwqGD83Cpbm+FhyKXLm5AsoQ73B9c2sNCSrfswqvvQA=",
