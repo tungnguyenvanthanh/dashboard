@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "AppAdmin",
   "resources": {
-    "hash": "sha256-iVIpiLJDqJ1YA11O382MkVz8euLgfJTZTgqt8qeUqPo=",
+    "hash": "sha256-Catfm28x3eNHcPzb18bgXvu2XPm+xUUTIS6n3l4DkeQ=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-O/NCYcAN9uPocD7ns7AzF/cqx7f5vL1PTJCQs0vEXyk="
     },
@@ -75,8 +75,8 @@
       "System.Linq.Expressions.wasm": "sha256-3DYRqxtn1myjsqBICu7yNnQAPwydfVCPG/kRuc3Zv/E=",
       "System.Linq.wasm": "sha256-uyOY601I3y7CXPPNI638KZ2sW4Mo6oAeMzHK50qE8Do=",
       "System.Memory.wasm": "sha256-mfuIO80BRBivF7fLrdeperBVR2DOa+G+m4HVrDkGAbk=",
-      "System.Net.Http.Json.wasm": "sha256-fdNM8ueVl9vAqGjg9YQyixJwfYQxXdX/zZkzrc1GOyM=",
-      "System.Net.Http.wasm": "sha256-RZmvJVDIGivCZEXSR8fR55Qk3GeyZtQUjJc6W3sa2Ao=",
+      "System.Net.Http.Json.wasm": "sha256-vRFIBFvqvtN0TacUpZRfsDSiEd4lth45/n/8vVSYT/U=",
+      "System.Net.Http.wasm": "sha256-grR2kd6Yuafi08+fUVtEmuDzVLsJq+87LF9k1vjzxJw=",
       "System.Net.Primitives.wasm": "sha256-lfM+TK/0fL3gaXRtPEq0sW0G8j7E2ZArC5DZXQ4ldK8=",
       "System.Net.Requests.wasm": "sha256-QsyoC43Wq79uJkprn9vqbreZW7yS28ZBQ0VdBMV+mlA=",
       "System.Net.Security.wasm": "sha256-qnsgyH7Z8HugZi9xwjIo0R2FCuax/bFqcexoNA6HCFM=",
@@ -92,24 +92,24 @@
       "System.Text.Encoding.CodePages.wasm": "sha256-iQ4zAS8EZrcfdjup+vyL2XN29Vxo1tRe+bdqcb9SK0Y=",
       "System.Text.Encoding.Extensions.wasm": "sha256-7i/zJugHSP4VDX28jijWPURrL5qTq8B2OWcOXW3HNCU=",
       "System.Text.Encodings.Web.wasm": "sha256-RtdQrtWBjr+TWVv+faoZfrEimBIucOn31qWWFAy0NQg=",
-      "System.Text.Json.wasm": "sha256-EbZjwBSodUH8APLywp3v5G/ur5eIdshKemovH14Bz5w=",
+      "System.Text.Json.wasm": "sha256-ajW86SdcJiG6OIeSroyS+GvelyO2mZ7eMHI3RW1JXg4=",
       "System.Text.RegularExpressions.wasm": "sha256-dZFEff2oyFRxh4Hpo7uce9oX7E4U0zby3HBHer1ET7c=",
       "System.Threading.Channels.wasm": "sha256-o7vKY8DfL0YH5ecBguo0Spmjq9LAIKP0EKqkxeJLruM=",
       "System.Threading.wasm": "sha256-vh0Dz0cEZKd+cjz2Rosr5WK5n7Pg8uCnv6lhqMXLFJ8=",
       "System.Web.HttpUtility.wasm": "sha256-3cJaZeUb1Y37dQwkPJimN5GPsnAB8M6/9q8M4chV5OE=",
       "System.wasm": "sha256-/Ib2sECJIp5OmAw2FVP/3jA36Bh6yA6fac798DlmOd8=",
       "System.Private.CoreLib.wasm": "sha256-0+2RR6IXcASzBkaiopgsm+G9bmnJVRH5+S0DhPFRy/o=",
-      "AppShare.wasm": "sha256-izybXV67fWlLVtAEjD/gUvToFNd53JpggggVZSkdnUU=",
-      "TTVLDashboard.BlogLibrary.wasm": "sha256-b+ntNOgvKbY+XluTF0AHm1ibtrmbei4AIJLwSHAu/SM=",
-      "TTVLDashboard.GameLibrary.wasm": "sha256-tOSpPVXYLppLu2yl7fDO8kwwWynDXAAWpfrSDMFGFlk=",
-      "TTVLDashboard.HelpCenterLibrary.wasm": "sha256-vG5cix+gyuzRMup8JrSku8vj8aLnRZvK7B+l4DdVPyA=",
-      "TTVLDashboard.SiteSettingLibrary.wasm": "sha256-dE9/DGstZPUmbmVEcB+P68PR8oixWikoKbqi7UYCOuc=",
-      "TTVLDashboard.TenantLibrary.wasm": "sha256-+kqWA39jX2jAhGyYSI1cydAZkO07QaJodioD5TENDZQ=",
-      "TTVLDashboard.UserLibrary.wasm": "sha256-1Ec4JCdVtfmzOM1L1FyvhyZTCcBupZkm9OfHezshbw0=",
-      "TTVLDashboard.WebsiteLibrary.wasm": "sha256-dwqGD83Cpbm+FhyKXLm5AsoQ73B9c2sNCSrfswqvvQA=",
-      "TTVLMudThemeLibrary.wasm": "sha256-sowQmxjYwDafWVbtcPpZgM8dI0HNRkJ4o2hSNIAkl9E=",
-      "TTVLShareLibrary.wasm": "sha256-epzhN1qIxrMiRi9Rs0+CQPld5XcELZBPorMyVure5yM=",
-      "AppAdmin.wasm": "sha256-FQimGOHC5i7EslfXfXk0uCe8glxrxHCRd8IH9GsMnWY="
+      "AppShare.wasm": "sha256-JCfIIFMLS4vouQdd2cAr2h0kaf6NeU2OCwuznGfKUM0=",
+      "TTVLDashboard.BlogLibrary.wasm": "sha256-KodImNjum9YJZ8/wj4LrwtShe9d3Sah6bubwxmk+UGI=",
+      "TTVLDashboard.GameLibrary.wasm": "sha256-QuT5OvPYoxvKsxcwM4rpp2XRXID3jAacdSE91EDvQsc=",
+      "TTVLDashboard.HelpCenterLibrary.wasm": "sha256-tCXd0Dh2x3G3XbTzs3JPs39ryH55FXv+8LNzX63I5GA=",
+      "TTVLDashboard.SiteSettingLibrary.wasm": "sha256-VqYTkvSrVzUg7oMvHoLSpBrJDL87nj3DZJjOFMSsHh8=",
+      "TTVLDashboard.TenantLibrary.wasm": "sha256-ae5gHxmzBp70xRHWHhqt4sKfYxKfNjtVz/nIVNQYve4=",
+      "TTVLDashboard.UserLibrary.wasm": "sha256-uk7oVRQxKB343jZaFOlB1NoASRHWD5SmFtxmk0b/eJo=",
+      "TTVLDashboard.WebsiteLibrary.wasm": "sha256-P/Kn0K5tY+x83f7enxuxGBJqq0Bn6mC0lW6esrm/9S0=",
+      "TTVLMudThemeLibrary.wasm": "sha256-Ie1JwT/rSUFHGgvvL2xxDWw75rQYa9qjkw07TE17q0c=",
+      "TTVLShareLibrary.wasm": "sha256-i1XSXtBOtwFnIH308FXGu7Bfz2h9lpKSqvMnl4pBUBc=",
+      "AppAdmin.wasm": "sha256-u5NifQqkXzfnSxNCONyvTKlJo8vEGvaKuh/iek1iJSM="
     },
     "libraryInitializers": {
       "_content/TinyMCE.Blazor/TinyMce.Blazor.lib.module.js": "sha256-YWo2eyD7vRsEwgJEvrAuzw9OkKV7xlijfLrNVtX4iWg="

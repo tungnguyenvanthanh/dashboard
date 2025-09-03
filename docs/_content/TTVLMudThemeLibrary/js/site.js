@@ -44,7 +44,7 @@
         if (!code) {
             code = "";
         }
-        const res = await fetch('https://drive.ttvl.io.vn/api/format-code/csharp', {
+        const res = await fetch('https://server.ttvl.io.vn/api/format-code/csharp', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(code)
