@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "AppAdmin",
   "resources": {
-    "hash": "sha256-RZEt/X1KddKx3POE1IJ4HKe4vXBeNQRUAlLFIAIPHtI=",
+    "hash": "sha256-DIp+3ocmjYlRg6vzQbEWIEg/oFoXjo6KDdPV9HHCJcg=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-O/NCYcAN9uPocD7ns7AzF/cqx7f5vL1PTJCQs0vEXyk="
     },
@@ -55,7 +55,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-SjzPoqgDM2Otp7dFsy+jWyx2dEYBLOugQ14hyJGgJ/U=",
       "Microsoft.JSInterop.wasm": "sha256-1+qqNt84KfDqR8nCjAEge2EQoSTl6Ga+JzEbT2wjT3o=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-aqyuCwf1Tsx4FU+9M7zG+jZJZH7d2KbP4hPdHZlKvHw=",
-      "MudBlazor.wasm": "sha256-5+4pVqGS5I5HXC2yHfaAztWe/W3nP4nwGLUdtw718Os=",
+      "MudBlazor.wasm": "sha256-5WuGicQv8O2Uf0159Fb4Xi4i8bx52Rpw9NFc/W9cFXs=",
       "MudBlazor.Markdown.wasm": "sha256-UdbXvLM+gdQBVfx3fgC5L/A2gO2rnkC6VAu0nyT7HHo=",
       "System.Diagnostics.DiagnosticSource.wasm": "sha256-NNsfh/iv7Gg04BslcK/6zZUx95Oa4wCrgqYXlj381AA=",
       "System.IO.Pipelines.wasm": "sha256-sP0Ouu08KfWVgmNUItyK0kc2e6ex1PG0BhexeJ5Wu7I=",
@@ -93,23 +93,23 @@
       "System.Text.Encoding.Extensions.wasm": "sha256-7i/zJugHSP4VDX28jijWPURrL5qTq8B2OWcOXW3HNCU=",
       "System.Text.Encodings.Web.wasm": "sha256-RtdQrtWBjr+TWVv+faoZfrEimBIucOn31qWWFAy0NQg=",
       "System.Text.Json.wasm": "sha256-ajW86SdcJiG6OIeSroyS+GvelyO2mZ7eMHI3RW1JXg4=",
-      "System.Text.RegularExpressions.wasm": "sha256-dZFEff2oyFRxh4Hpo7uce9oX7E4U0zby3HBHer1ET7c=",
+      "System.Text.RegularExpressions.wasm": "sha256-vJRFbv+HoIat5lBzIzrt954HM+HaTwqGI7IIivGX7OE=",
       "System.Threading.Channels.wasm": "sha256-o7vKY8DfL0YH5ecBguo0Spmjq9LAIKP0EKqkxeJLruM=",
       "System.Threading.wasm": "sha256-vh0Dz0cEZKd+cjz2Rosr5WK5n7Pg8uCnv6lhqMXLFJ8=",
       "System.Web.HttpUtility.wasm": "sha256-3cJaZeUb1Y37dQwkPJimN5GPsnAB8M6/9q8M4chV5OE=",
       "System.wasm": "sha256-/Ib2sECJIp5OmAw2FVP/3jA36Bh6yA6fac798DlmOd8=",
       "System.Private.CoreLib.wasm": "sha256-0+2RR6IXcASzBkaiopgsm+G9bmnJVRH5+S0DhPFRy/o=",
-      "AppShare.wasm": "sha256-JCfIIFMLS4vouQdd2cAr2h0kaf6NeU2OCwuznGfKUM0=",
-      "TTVLDashboard.BlogLibrary.wasm": "sha256-KodImNjum9YJZ8/wj4LrwtShe9d3Sah6bubwxmk+UGI=",
-      "TTVLDashboard.GameLibrary.wasm": "sha256-QuT5OvPYoxvKsxcwM4rpp2XRXID3jAacdSE91EDvQsc=",
-      "TTVLDashboard.HelpCenterLibrary.wasm": "sha256-tCXd0Dh2x3G3XbTzs3JPs39ryH55FXv+8LNzX63I5GA=",
-      "TTVLDashboard.SiteSettingLibrary.wasm": "sha256-riJ7kxBczSunRskBIcMyPLs7aNYdCC1p9hjmzVYhFg4=",
-      "TTVLDashboard.TenantLibrary.wasm": "sha256-ae5gHxmzBp70xRHWHhqt4sKfYxKfNjtVz/nIVNQYve4=",
-      "TTVLDashboard.UserLibrary.wasm": "sha256-uk7oVRQxKB343jZaFOlB1NoASRHWD5SmFtxmk0b/eJo=",
-      "TTVLDashboard.WebsiteLibrary.wasm": "sha256-P/Kn0K5tY+x83f7enxuxGBJqq0Bn6mC0lW6esrm/9S0=",
-      "TTVLMudThemeLibrary.wasm": "sha256-Ie1JwT/rSUFHGgvvL2xxDWw75rQYa9qjkw07TE17q0c=",
+      "AppShare.wasm": "sha256-qLUQi7KutQ1tosltB47yQYon4yGivJap5TDYgjuSxho=",
+      "TTVLDashboard.BlogLibrary.wasm": "sha256-cEo4x4kv35V241zLIeUpuVyl6npIdxPpTz7VFQ0H5GQ=",
+      "TTVLDashboard.GameLibrary.wasm": "sha256-Mvusn4XC0s1O7jdv7vzxku2RPC8KwN7dfKmr5z5u2Dk=",
+      "TTVLDashboard.HelpCenterLibrary.wasm": "sha256-oQ+0zuTNMbmudNXmo9VWIhLBEgxTi+RUVcvB3jQCznw=",
+      "TTVLDashboard.SiteSettingLibrary.wasm": "sha256-ZuuvpxMBUsoOgJnRTdq5GdOKTjXF/kg/XJSORFZJxo8=",
+      "TTVLDashboard.TenantLibrary.wasm": "sha256-BrGuLvxYpkpk2sCrGEGDrUXs+xAgvDzHiaVBGuWMZ5o=",
+      "TTVLDashboard.UserLibrary.wasm": "sha256-Pv0rVPnDiB9JBp0dXVv3M14r8ZtNMVRlexoQCZGAt+w=",
+      "TTVLDashboard.WebsiteLibrary.wasm": "sha256-MswN8Zn2K0kcqIBeODZ4kV6M/izqB+AqBVpEI6LyoIE=",
+      "TTVLMudThemeLibrary.wasm": "sha256-0E8drlDrNafIdtxk3YILJC6FRz9hVhi/IP6OBgiNUtM=",
       "TTVLShareLibrary.wasm": "sha256-i1XSXtBOtwFnIH308FXGu7Bfz2h9lpKSqvMnl4pBUBc=",
-      "AppAdmin.wasm": "sha256-u5NifQqkXzfnSxNCONyvTKlJo8vEGvaKuh/iek1iJSM="
+      "AppAdmin.wasm": "sha256-9iFzHVu4vdqzSsjJOq2woY+MeX55vePjL4xDB2hc044="
     },
     "libraryInitializers": {
       "_content/TinyMCE.Blazor/TinyMce.Blazor.lib.module.js": "sha256-YWo2eyD7vRsEwgJEvrAuzw9OkKV7xlijfLrNVtX4iWg="
