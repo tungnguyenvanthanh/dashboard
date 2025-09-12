@@ -52,11 +52,25 @@
         return res.ok ? await res.text() : code;
     };
 
+    const forceDownload = function (url, fileName) {
+        fetch(url, { mode: 'cors' })
+            .then(resp => resp.blob())
+            .then(blob => {
+                const link = document.createElement("a");
+                link.href = window.URL.createObjectURL(blob);
+                link.download = fileName || "download";
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+            });
+    };
+
     return {
         initScrollEvent,
         copyText,
         beautifyHtml,
         formatJson,
-        formatCsharp
+        formatCsharp,
+        forceDownload
     };
 }();
